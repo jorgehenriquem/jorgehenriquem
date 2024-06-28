@@ -7,7 +7,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehenriquem&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehenriquem&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -15,7 +15,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jorgehenriquem&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jorgehenriquem&theme=bear&hide_border=false"
         alt="Github Stats"
       />
     </td>
