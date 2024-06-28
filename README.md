@@ -7,13 +7,6 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=jorgehenriquem&theme=dark&hide_border=false&include_all_commits=false"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehenriquem&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
         alt="Github Stats"
       />
